@@ -3,3 +3,6 @@
 @import "./base/tipografia.css";
 @import "./layout/layout.css";
 @import "./componentes/link.css";
+@import "./componentes/buttons.css";
+@import "./componentes/cards.css";
+@import "./componentes/badges.css";
